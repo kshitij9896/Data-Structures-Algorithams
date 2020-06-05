@@ -1,0 +1,85 @@
+Data Structure in Python
+
+Built-in Data Structures
+1.List 2.Tuples 3.Dictionary 4.Sets
+
+User Defined Data Structure
+1.Stack 2.Queue 3.Trees 4.Linked List 5.Graphs 6.HashMaps
+
+
+Built-in Data Structures
+
+1.List in Pythons
+
+Notes
+--List Have Heterogenous data type in them
+--List Are Mutable(Changes can be done in the list)
+
+
+2.Tuples
+--Same as Lists but not Muatable they are fixed
+--Faster than Lists
+
+3.Dictionary
+--Hold Key,Value Pairs
+--Dictionaries are Mutatble
+
+4.Sets
+--Collection of Unorderd Collection
+of unique elements
+--Sets are Mutable
+
+
+
+User Defined Data Structure
+
+
+Algorithams in Pythons
+
+Algoritham Classes
+
+1.Divide and Conquer
+2.Dynamic Programming
+3.Greedy Prorgamming
+
+A.Tree Traversal Algoritham
+1.PreOrder
+2.InOrder
+3.PostOrder
+
+
+
+B.Sorting Algorihtam
+1.Merge Sort Algoritham
+2.Bubble Sort Algorihtam
+3.Insertion Sort Algoritham
+4.Selection Sort Algoritham
+5.Shell Sort Algoritham
+--Allows you to sort the algorihtam
+Insertion sort picks one element of a given
+list at a time and places it at the exact spot
+where it is to be placed
+
+Shell Sort Algorithms Steps
+1.Divide the no of elements by 2
+2.divide sub array in to smaller subarrays
+3.Repeat step 1 2 
+
+
+Searching Algorithams
+1.Linear Search
+2.Binary Search
+
+Algoritham Analysis
+1.Priori Analysis
+2.Posterior Analysis
+-time,space complexities
+
+
+	
+
+
+
+
+
+
